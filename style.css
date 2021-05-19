@@ -11,14 +11,14 @@ h1 {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   padding: 10px 50px 50px 50px;
-  font-size:30px;
+  font-size:27px;
 }
 
 h2 {
   text-align: center;
   color: #f7f7f7;
   font-family: 'Open Sans', sans-serif;
-  font-size:24px;
+  font-size:21px;
 
 }
 
@@ -26,7 +26,7 @@ h3 {
   color: #f7f7f7;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 30px;
+  font-size: 26px;
 }
 
 
@@ -35,7 +35,7 @@ p {
   color: #f7f7f7;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
 
 }
 
@@ -43,7 +43,7 @@ ul{
   color: #f7f7f7;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 15px
+  font-size: 14px
 }
 
 li{
@@ -51,7 +51,7 @@ li{
   color: #f7f7f7;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 15px
+  font-size: 14px
 }
 /*a*/
 a {
@@ -59,7 +59,7 @@ a {
   padding: 20px;
   color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
   width: 25%; /* Four links of equal widths */
   text-align: center;
 }
